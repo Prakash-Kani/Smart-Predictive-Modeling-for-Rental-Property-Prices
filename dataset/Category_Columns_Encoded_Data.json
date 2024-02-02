@@ -1,0 +1,48 @@
+{
+    "type": {
+        "BHK2": 1.0,
+        "BHK3": 2.0,
+        "BHK1": 0.0,
+        "RK1": 5.0,
+        "BHK4": 3.0,
+        "BHK4PLUS": 4.0
+    },
+    "lease_type": {
+        "ANYONE": 0.0,
+        "FAMILY": 3.0,
+        "BACHELOR": 1.0,
+        "COMPANY": 2.0
+    },
+    "furnishing": {
+        "SEMI_FURNISHED": 2.0,
+        "FULLY_FURNISHED": 0.0,
+        "NOT_FURNISHED": 1.0
+    },
+    "parking": {
+        "BOTH": 0.0,
+        "TWO_WHEELER": 3.0,
+        "NONE": 2.0,
+        "FOUR_WHEELER": 1.0
+    },
+    "facing": {
+        "NE": 2.0,
+        "E": 0.0,
+        "S": 4.0,
+        "N": 1.0,
+        "SE": 5.0,
+        "W": 7.0,
+        "NW": 3.0,
+        "SW": 6.0
+    },
+    "water_supply": {
+        "CORPORATION": 1.0,
+        "CORP_BORE": 2.0,
+        "BOREWELL": 0.0
+    },
+    "building_type": {
+        "AP": 0.0,
+        "IH": 3.0,
+        "IF": 2.0,
+        "GC": 1.0
+    }
+}
